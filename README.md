@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=DADMARK+XMDI+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+DADMARK)](https://git.io/typing-svg) 
 
-<p align="centre"><img src="https://i.ibb.co/PwHcqYz/https://files.catbox.moe/d0l3hy.jpg" width="500" height="500" />
+<p align="centre"><img src="https://files.catbox.moe/d0l3hy.jpg" width="500" height="500" />
 
 
 
